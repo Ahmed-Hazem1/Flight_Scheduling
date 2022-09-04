@@ -1,0 +1,6 @@
+﻿  Simulation.cpp
+C:\Users\Ahmmed Hazem\Desktop\DSProject\DSProject\Flight.h(8,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Ahmmed Hazem\Desktop\DSProject\DSProject\Flight.h(9,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Ahmmed Hazem\Desktop\DSProject\DSProject\Simulation.cpp(14,72): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Ahmmed Hazem\Desktop\DSProject\DSProject\Simulation.cpp(48,80): warning C4018: '<=': signed/unsigned mismatch
+  DSProject.vcxproj -> C:\Users\Ahmmed Hazem\Desktop\DSProject\x64\Debug\DSProject.exe
